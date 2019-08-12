@@ -1,0 +1,52 @@
+#  maintain:
+- add :各种类的实例化
+- del: 删除到缓存区
+- 查重
+- 查询
+- 模糊匹配
+- save
+- 改
+
+- 从缓存区读取
+--- 融合层：
+- 知识融合，消歧
+
+
+- 每个类的构造函数：new,load
+
+--------
+today
+1.core - stage - searchengine架构图
+1.1 建类
+2.整合BabelAPI,其他知识库API
+3.导入实体
+
+run 一次
+
+----userstory
+
+
+--- KG
+
+
+
+
+achetec
+# core
+- 已经有的类，属性
+- 类，属性 | 实体，关系 <-- nlpTags,词映射,alternatename
+
+
+
+# maintain
+增
+删
+改
+查
+
+融合消歧
+# stage
+- ## maintain 
+
+
+# blackhole

@@ -1,0 +1,54 @@
+# Thing
+
+
+context='http://404.ai/...'
+prefix = context+category
+_id=prefix+name
+category -- type properties 
+name
+nameZh
+alternateName
+description
+descriptionZh
+supersededBy
+nlpTags --dict
+
+externalReference
+  schemas
+     --schema
+     --cnschema
+  wiki:
+     -- wikidataName
+     -- wikidataUrl
+     -- wikipediaUrl
+ 
+
+supers --list 
+properties  -- list
+
+
+
+
+## property
+
+domain:[]
+range:[]
+
+
+## instance -- entity,relation(property,type)
+<F24>
+thing
+super from ontology
+
+### entity
+properties:value
+
+
+### relation
+domain
+range
+ 
+
+
+
+
